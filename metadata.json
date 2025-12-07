@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Validation Form ",
+  "description": "A responsive and interactive form that provides real-time validation for user inputs such as name, email, phone, and password, enhancing user experience with immediate feedback.",
+  "requestFramePermissions": []
+}
